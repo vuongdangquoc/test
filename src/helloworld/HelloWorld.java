@@ -21,11 +21,7 @@ public class HelloWorld {
         String toLowerCase = a.toLowerCase();
         System.out.println(toLowerCase);
         
-        int x  = 288;
-        Integer iX = new Integer(x);
-        System.out.println(iX);
-        int unX = iX.intValue();
-        System.out.println(unX);
+       
             
     }
 
